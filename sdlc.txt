@@ -1,0 +1,25 @@
+What is meant by SDLC?
+Definition: 
+The Software Development Life Cycle (SDLC) is a structured process that enables the production of high-quality, low-cost software, in the shortest possible production time.
+Importance of  SDLC:
+~It provides a standardized framework that defines activities and deliverables
+~It aids in project planning, estimating, and scheduling
+~It makes project tracking and control easier
+~It increases visibility on all aspects of the life cycle to all stakeholders involved in the development process
+~It increases the speed of development
+~It improves client relations
+~It decreases project risks
+The primary advantages of pursuing a secure SDLC approach includes:
+~More secure software as security is a continuous concern
+~Awareness of security considerations by stakeholders
+~Early detection of flaws in the system
+~Cost reduction as a result of early detection and resolution of issues
+~Overall reduction of intrinsic business risks for the organizationIt decreases project management expenses and the overall cost of production
+Methodologies of  SDLC:
+~Water fall methodology [which is old and simplest methodology]
+~Agile methodology
+~Lean methodology
+Models of  SDLC:
+~V-shaped model
+~Spiral development model
+~Iterative model
